@@ -1,0 +1,6 @@
+{
+    "hostname": "blah",
+    "port": 830,
+    "username": "netconf",
+    "sshkey": "id_rsa_api"
+}
